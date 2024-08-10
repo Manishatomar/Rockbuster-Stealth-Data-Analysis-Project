@@ -1,2 +1,5 @@
-# Rockbuster-Stealth-Data-Analysis-Project
-A comprehensive data-driven presentation was prepared for the Management Board to address key business questions. Additionally, the data dictionary and SQL queries used to generate insights were provided to the technical team for further analysis.
+<h1 id="rockbuster-stealth-data-analysis-project">Rockbuster-Stealth-Data-Analysis-Project</h1>
+<p>A comprehensive data-driven presentation was prepared for the Management Board to address key business questions. Additionally, the data dictionary and SQL queries used to generate insights were provided to the technical team for further analysis.</p>
+<h2 id="rockbuster-stealth-llc-data-analysis-project">Rockbuster Stealth LLC Data Analysis Project</h2>
+<p>In this project, I was brought on by Rockbuster Stealth LLC, a traditional movie rental company, to develop a data strategy for the launch of their new online video rental service. The company, which once operated stores worldwide, is now facing significant competition from streaming giants like Netflix and Amazon Prime. My role involves leveraging SQL to analyze various data points, ultimately providing the Rockbuster Stealth management team with data-driven insights to inform their 2020 launch strategy and help the company remain competitive in the evolving market.</p>
+
