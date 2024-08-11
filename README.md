@@ -11,11 +11,12 @@ Demographics of Rockbuster customers?
 Location of high-value customers?
 Sales comparison across regions.
 
-#### Data Set: 
+#### Data Set
 The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
 [Rockbuster Dataset](https://github.com/Manishatomar/Dataset/blob/main/Rockbuster-Dataset.xlsx)
 
-#### Project Deliverables: The project concludes with a thorough analysis, supported by SQL queries, visualizations, and a compelling narrative that transforms complex data into actionable business insights.
+#### Project Deliverables
+The project concludes with a thorough analysis, supported by SQL queries, visualizations, and a compelling narrative that transforms complex data into actionable business insights.
 
 #### Final Analysis Includes
 SQL queries that address key questions from management.
